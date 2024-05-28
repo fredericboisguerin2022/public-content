@@ -15,14 +15,14 @@
   },
   "swing": {
     "x": 0,
-    "y": 0,
+    "y": 647,
     "width": 650,
     "height": 633,
     "anchorY": 1280
   },
   "pin": {
     "x": 650,
-    "y": 0,
+    "y": 647,
     "width": 620,
     "height": 633,
     "anchorY": 1280
