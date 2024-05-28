@@ -3,34 +3,33 @@
     "x": 0,
     "y": 0,
     "width": 650,
-    "height": 647,
-    "anchorY": 647,
+    "height": 647
   },
   "putt": {
     "x": 650,
     "y": 0,
     "width": 620,
-    "height": 647,
+    "height": 647
   },
   "swing": {
     "x": 0,
-    "y": 647,
+    "y": 650,
     "width": 650,
-    "height": 633,
-    "anchorY": 1280
+    "height": 620
   },
   "pin": {
     "x": 650,
     "y": 647,
     "width": 620,
     "height": 633,
-    "anchorY": 1280
+    "anchorY": 633,
+    "mask": true
   },
   "watch-event": {
     "x": 0,
-    "y": 128,
-    "width": 128,
-    "height": 128,
-    "anchorY": 128
+    "y": 1280,
+    "width": 650,
+    "height": 620,
+    "mask": true
   }
 }
