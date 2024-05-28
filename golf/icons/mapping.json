@@ -14,18 +14,18 @@
     "anchorY": 647
   },
   "swing": {
-    "x": 256,
+    "x": 0,
     "y": 0,
-    "width": 128,
-    "height": 128,
-    "anchorY": 128
+    "width": 650,
+    "height": 633,
+    "anchorY": 1280
   },
   "pin": {
-    "x": 384,
+    "x": 650,
     "y": 0,
-    "width": 128,
-    "height": 128,
-    "anchorY": 128
+    "width": 620,
+    "height": 633,
+    "anchorY": 1280
   },
   "watch-event": {
     "x": 0,
