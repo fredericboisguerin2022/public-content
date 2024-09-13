@@ -31,5 +31,11 @@
     "width": 650,
     "height": 620,
     "mask": true
+  },
+  "green-selected": {
+    "x": 650,
+    "y": 1280,
+    "width": 650,
+    "height": 620
   }
 }
